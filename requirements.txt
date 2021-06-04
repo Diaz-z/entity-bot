@@ -2,4 +2,4 @@ discord
 asyncio
 requests
 giphy-client
-nekos
+nekos.py
