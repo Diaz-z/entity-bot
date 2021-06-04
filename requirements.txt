@@ -1,7 +1,3 @@
 discord
-flask
-giphy_client
-json
-random
+asincio
 requests
-nekos
