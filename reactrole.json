@@ -1,0 +1,278 @@
+[
+    {
+        "role_name": "Dead by Daylight",
+        "role_id": 758086313680306266,
+        "emoji": "\ud83c\udf15",
+        "message_id": 833422071660281866
+    },
+    {
+        "role_name": "Cooperative",
+        "role_id": 789599257400442910,
+        "emoji": "\ud83c\udf15",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u041a\u0438\u043d\u043e\u043c\u0430\u043d",
+        "role_id": 739091224279121991,
+        "emoji": "\ud83c\udf16",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u041e\u0442\u0430\u043a\u0443",
+        "role_id": 833405600892846130,
+        "emoji": "\ud83c\udf17",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0422\u0430\u043d\u0446\u043e\u0440",
+        "role_id": 833405681406705704,
+        "emoji": "\ud83c\udf11",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0422\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u0438\u0439",
+        "role_id": 833405758015799336,
+        "emoji": "\ud83c\udf12",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0413\u0435\u0439\u043c\u0435\u0440",
+        "role_id": 833405524090552320,
+        "emoji": "\ud83c\udf13",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0421\u043e\u043c\u0435\u043b\u044c\u0435",
+        "role_id": 833405826391081011,
+        "emoji": "\ud83c\udf14",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0413\u0435\u0439\u043c\u0435\u0440",
+        "role_id": 833405524090552320,
+        "emoji": "\ud83c\udf13",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u041c\u0443\u0437\u044b\u043a\u0430\u043d\u0442",
+        "role_id": 833405413252005898,
+        "emoji": "\ud83c\udf18",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0422\u0430\u043d\u0446\u043e\u0440",
+        "role_id": 833405681406705704,
+        "emoji": "\ud83c\udf11",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0422\u0432\u043e\u0440\u0447\u0435\u0441\u043a\u0438\u0439",
+        "role_id": 833405758015799336,
+        "emoji": "\ud83c\udf12",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0413\u0435\u0439\u043c\u0435\u0440",
+        "role_id": 833405524090552320,
+        "emoji": "\ud83c\udf13",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "\u0421\u043e\u043c\u0435\u043b\u044c\u0435",
+        "role_id": 833405826391081011,
+        "emoji": "\ud83c\udf14",
+        "message_id": 833422067684212736
+    },
+    {
+        "role_name": "Left 4 Dead 2",
+        "role_id": 810210767218409513,
+        "emoji": "\ud83c\udf15",
+        "message_id": 833422099628163152
+    },
+    {
+        "role_name": "Overwatch",
+        "role_id": 758093569138360352,
+        "emoji": "\ud83c\udf16",
+        "message_id": 833422099628163152
+    },
+    {
+        "role_name": "Fortnite",
+        "role_id": 777600207004368926,
+        "emoji": "\ud83c\udf17",
+        "message_id": 833422099628163152
+    },
+    {
+        "role_name": "Forest",
+        "role_id": 758093797866340372,
+        "emoji": "\ud83c\udf18",
+        "message_id": 833422099628163152
+    },
+    {
+        "role_name": "Valheim",
+        "role_id": 830539741019111454,
+        "emoji": "\ud83c\udf11",
+        "message_id": 833422099628163152
+    },
+    {
+        "role_name": "Hearthstone",
+        "role_id": 830539873432895508,
+        "emoji": "\ud83c\udf12",
+        "message_id": 833422099628163152
+    },
+    {
+        "role_name": "World of Warcraft",
+        "role_id": 830539957030354985,
+        "emoji": "\ud83c\udf13",
+        "message_id": 833422099628163152
+    },
+    {
+        "role_name": "Phasmophobia",
+        "role_id": 777600404518076426,
+        "emoji": "\ud83c\udf14",
+        "message_id": 833422099628163152
+    },
+    {
+        "role_name": "Hunt: Showdown",
+        "role_id": 758138974925094946,
+        "emoji": "\ud83c\udf15",
+        "message_id": 833422131043369001
+    },
+    {
+        "role_name": "Among Us",
+        "role_id": 758085955939991633,
+        "emoji": "\ud83c\udf16",
+        "message_id": 833422131043369001
+    },
+    {
+        "role_name": "Deceit",
+        "role_id": 758139880558821426,
+        "emoji": "\ud83c\udf17",
+        "message_id": 833422131043369001
+    },
+    {
+        "role_name": "Rust",
+        "role_id": 777600579211755540,
+        "emoji": "\ud83c\udf18",
+        "message_id": 833422131043369001
+    },
+    {
+        "role_name": "World of Tanks",
+        "role_id": 830540012167757877,
+        "emoji": "\ud83c\udf11",
+        "message_id": 833422131043369001
+    },
+    {
+        "role_name": "PayDay 2",
+        "role_id": 758138809907937291,
+        "emoji": "\ud83c\udf12",
+        "message_id": 833422131043369001
+    },
+    {
+        "role_name": "Terraria",
+        "role_id": 830540510237950002,
+        "emoji": "\ud83c\udf13",
+        "message_id": 833422131043369001
+    },
+    {
+        "role_name": "Warframe",
+        "role_id": 830540275709509642,
+        "emoji": "\ud83c\udf14",
+        "message_id": 833422131043369001
+    },
+    {
+        "role_name": "PUBG",
+        "role_id": 777600301841776700,
+        "emoji": "\ud83c\udf16",
+        "message_id": 833422071660281866
+    },
+    {
+        "role_name": "Valorant",
+        "role_id": 758093399902388306,
+        "emoji": "\ud83c\udf17",
+        "message_id": 833422071660281866
+    },
+    {
+        "role_name": "Minecraft",
+        "role_id": 758140120469078067,
+        "emoji": "\ud83c\udf18",
+        "message_id": 833422071660281866
+    },
+    {
+        "role_name": "ARK",
+        "role_id": 758102955671945236,
+        "emoji": "\ud83c\udf11",
+        "message_id": 833422071660281866
+    },
+    {
+        "role_name": "Raft",
+        "role_id": 777600649688383498,
+        "emoji": "\ud83c\udf12",
+        "message_id": 833422071660281866
+    },
+    {
+        "role_name": "Don't Starve",
+        "role_id": 758139729668734986,
+        "emoji": "\ud83c\udf13",
+        "message_id": 833422071660281866
+    },
+    {
+        "role_name": "Sea of Thieves",
+        "role_id": 803326170803863582,
+        "emoji": "\ud83c\udf14",
+        "message_id": 833422071660281866
+    },
+    {
+        "role_name": "Paladins",
+        "role_id": 830540201159426109,
+        "emoji": "\ud83c\udf15",
+        "message_id": 833422216887926804
+    },
+    {
+        "role_name": "Team Fortress 2",
+        "role_id": 830540120717393950,
+        "emoji": "\ud83c\udf16",
+        "message_id": 833422216887926804
+    },
+    {
+        "role_name": "Warzone",
+        "role_id": 830540354485878815,
+        "emoji": "\ud83c\udf17",
+        "message_id": 833422216887926804
+    },
+    {
+        "role_name": "DayZ",
+        "role_id": 830540435730071582,
+        "emoji": "\ud83c\udf18",
+        "message_id": 833422216887926804
+    },
+    {
+        "role_name": "Six Siege",
+        "role_id": 758139191413833730,
+        "emoji": "\ud83c\udf11",
+        "message_id": 833422216887926804
+    },
+    {
+        "role_name": "Apex Legends",
+        "role_id": 776455841616232458,
+        "emoji": "\ud83c\udf14",
+        "message_id": 833422216887926804
+    },
+    {
+        "role_name": "GTA V",
+        "role_id": 777599494622674964,
+        "emoji": "\ud83c\udf12",
+        "message_id": 833422216887926804
+    },
+    {
+        "role_name": "Rocket League",
+        "role_id": 803327234983067658,
+        "emoji": "\ud83c\udf13",
+        "message_id": 833422216887926804
+    },
+    {
+        "role_name": "Apex Legends",
+        "role_id": 776455841616232458,
+        "emoji": "\ud83c\udf14",
+        "message_id": 833422216887926804
+    }
+]
