@@ -4,7 +4,6 @@ import os
 import giphy_client
 from giphy_client.rest import ApiException
 from discord import Activity, ActivityType
-import keep_alive
 import json
 import random
 import requests
@@ -443,5 +442,4 @@ async def on_command_error(ctx, error):
 
 
 my_secret = os.environ['Bot_secret']
-keep_alive.keep_alive()
 bot.run(my_secret)
