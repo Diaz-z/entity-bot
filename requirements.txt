@@ -1,0 +1,7 @@
+discord
+os
+giphy_client
+json
+random
+requests
+nekos
