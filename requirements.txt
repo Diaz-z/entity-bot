@@ -1,5 +1,5 @@
 discord
-os
+flask
 giphy_client
 json
 random
